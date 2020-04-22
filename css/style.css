@@ -1,0 +1,38 @@
+h1{
+    font-size: 30px;
+    line-height: 100px;
+    margin: 10vh 0;
+    text-align: center;
+    font-weight: 300;
+}
+h1 img{
+    margin-bottom: -12px;
+}
+h2,h3,h4,h5{
+    font-size: 24px;
+    margin: 20px;
+    font-weight: 300;
+}
+h2 {
+    box-sizing: border-box;
+    padding: 8px 16px;
+    background: #e5f5fa;
+    color: #2d2d2d;
+    line-height: 1.3;
+    border-bottom: solid 3px dodgerblue;
+}
+
+p{
+    font-size: 18px;
+    margin: 20px;
+}
+a{
+    color: #eee;
+}
+body {
+    background-image: url(../header.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #fefefe;
+}

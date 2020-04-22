@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 67.733334 67.733334" height="256">
+ <style>path {
+		fill: #083e95;
+	}
+	@media (prefers-color-scheme: dark) {
+		path {
+			fill: #ffffff;
+		}
+	}</style>
+ <g font-family="sans-serif" font-weight="400" fill="#fff">
+  <path overflow="visible" style="shape-padding:0;font-variant-alternates:normal;text-decoration-color:#000;font-variant-position:normal;font-variant-numeric:normal;mix-blend-mode:normal;text-indent:0;text-orientation:mixed;font-variant-ligatures:normal;text-decoration-line:none;font-feature-settings:normal;font-variant-caps:normal;isolation:auto;white-space:normal;text-transform:none;text-decoration-style:solid" d="m38.394 0.46336l-2.9726 2.972-30.431 30.432 33.402 33.402 9.6983-9.6983-5.9447-5.9447-3.7537 3.7537-21.513-21.513 21.515-21.515 3.7537 3.7537 5.9447-5.9447z"/>
+  <path overflow="visible" style="shape-padding:0;font-variant-alternates:normal;text-decoration-color:#000;font-variant-position:normal;font-variant-numeric:normal;mix-blend-mode:normal;text-indent:0;text-orientation:mixed;font-variant-ligatures:normal;text-decoration-line:none;font-feature-settings:normal;font-variant-caps:normal;isolation:auto;white-space:normal;text-transform:none;text-decoration-style:solid" d="m53.039 13.992l5.9447 5.9447-14.53 14.529 14.532 14.532-5.9447 5.9447-20.476-20.476z"/>
+ </g>
+</svg>
